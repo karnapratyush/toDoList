@@ -1,0 +1,14 @@
+.strike{
+    text-decoration: line-through;
+    background-color:white;
+}
+
+.list-group-item{
+    padding-left:20px
+}
+#btnClear{
+    display: inline;
+    float: right;
+    opacity:1
+
+}
